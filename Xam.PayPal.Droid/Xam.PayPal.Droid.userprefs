@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1FCECB30-6D07-438B-B1AD-B273B11945E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xam.PayPal.Droid/Jars/AboutJars.txt">
+    <Files>
+      <File FileName="Xam.PayPal.Droid/Jars/AboutJars.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xam.PayPal.Droid PreferredExecutionTarget="Android.Nexus4" />
+  <MultiItemStartupConfigurations />
+</Properties>
